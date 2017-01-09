@@ -1,0 +1,44 @@
+This log will indicate what has been changed since that last modification of the program
+Please log all changes in this file so we can keep track of what has been modified: 
+
+Date        Time        Changes
+
+9/24/15     6:00pm      - Creation of the main windows and the pop up windows.
+			- Creation/Implementaion of the MouseListener events.
+			- Created a number pad for input.
+			- Added comments and Done and To-Do list.
+			
+9/25/15     1:25pm      - Added comments 
+			- Found an explanation to why we use serialVersionUID
+			- http://tinylink.net/B3U - for further explanation. 
+			- Edited the text in the titel to "York U Parking Permit", and centerd the text. 
+			
+9/26/15     1:39am      - Made StudentID popup input window pop up in the center of the screen
+                        - Added a Titel to the popup window
+                        - Made the backspace key have an image (See image/back.png)
+                        - Implemented the "c" button.
+                        - Half implemented the "OK" button and then someone clicks close.
+
+9/27/15	    3:30pm	- Added a York University Icon to the main window and NumberPad window.
+                        - Fully implemented 13/13 buttons on the NumberPad window
+			- Student ID and Pin input are all done and working
+
+9/29/15     12:28am     - Oprimised NumberPad code
+                        - Cleaned up comments for easy readability 
+                        - update Done and To-Do list
+                        - Keyboard added for email feild (Almost all buttons are implemented)
+
+
+
+9/29/15	   4:56pm	- Implemented the character limit for all fields
+			
+			- Warrning message shows up when invalid amount of characters are entered
+			
+			- Created a "Submit" and "Cancel" button for the main window
+			
+			- Added actionlisteners for "Submit" and "Cancel" 		
+			- Adjusted the location of the windows when the are run on screen
+			
+			- Optimization 
+
+			- LayOut changes

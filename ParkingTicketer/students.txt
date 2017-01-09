@@ -1,0 +1,7 @@
+123456789, 1234, Smith, Susan, ok
+987654321, 5678,Jones, John Paul, arrears
+132435465, 3578,McIvar, Alan, ok
+543247531,2854,Jones, Alan,   ok
+654827164,5864,McGQuinty,Ernie,ok
+456864324,4965,Eves,Dalton,arrears
+457642455,2164,Jagger,Michael,ok

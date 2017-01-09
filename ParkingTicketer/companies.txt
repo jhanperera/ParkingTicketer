@@ -1,0 +1,51 @@
+Allianz Canada, 12324
+Allstate Insurance Company of Canada, 75385132
+Aviva, 78236532
+Belair Direct, 5632151
+CAA, 7523653
+Certas Direct Insurance Company, 95651
+Chieftain Insurance Company, 3251224
+Chubb Insurance, 457625
+Coachman Insurance Company, 1562653
+Co-operators, 452653
+Dominion of Canada, 14326554
+Echelon, 752652
+Economical, 455452
+Elite Insurance Company, 54512
+Facility Association, 154523
+Farmers Mutual, 421652
+Gore Mutual, 656541
+Intact Insurance, 5126523
+Jevco Insurance Company, 456542
+Kingsway General Insurance, 545553
+Liberty Mutual, 4657335
+Lloyds, 56452
+Lombard Insurance, 752651
+Missisquoi Insurance, 1324562
+Motors Insurance Ontario, 654225
+Motors Insurance Quebec, 54216
+North Waterloo Farmers Mutual, 15655
+Optimum Frontier, 264527
+Optimum West Insurance, 456523
+Pafco Insurance, 100565
+Peace Hills Insurance, 0155654
+Peel Mutual Insurance Company, 750256
+Pembridge Insurance, 9568554
+Perth Insurance, 123655
+Pilot, 4156764
+Portage Mutual Insurance, 5456542
+RBC Insurance, 13245645
+Red River Insurance, 579224
+RSA, 54655656
+Saskatchewan Mutual, 12355
+Scottish & York Insurance Co Limited, 845655
+SGI Canada, 312655
+State Farm Fire and Casualty Company, 2635125
+TD General Insurance Company, 0545636
+Traders General Insurance Company, 5456554
+The Guarantee Company, 516545
+Unica Insurance, 7896542
+Wawanesa Insurance Company, 165455
+West Wawanosh Mutual, 15612
+Western Assurance Company, 565123
+Zenith Insurance Company, 156512
